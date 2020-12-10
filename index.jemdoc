@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{photos/jiyuan.png}{alt text}{106}{160}{http://liujiyuan13.github.io}
-PhD,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK College of Computer], \n[http://www.kth.se National University of Defense Technology (NUDT)]\n
+Ph.D.,\n College of Computer, \n[https://english.nudt.edu.cn/ National University of Defense Technology (NUDT)]\n
 Deya Road, Kaifu District, \n
 Changsha City, Hunan Province, P.R. China. \n 
 E-mail: /liujiyuan13/ \[@\] nudt \[DOT\] edu \[DOT\] cn \n
@@ -12,28 +12,42 @@ Google Page: [https://scholar.google.com/citations?user=Fwf7d3IAAAAJ https:\/\/s
 ResearchGate: [https://www.researchgate.net/profile/Jiyuan_Liu7 https:\/\/www.researchgate.net\/profile\/Jiyuan_Liu7]
 ~~~
 
-== Under construction ! 
+== News!
+\[2020\/12\] I am invited to serve as a SPC member in upcoming *IJCAI21*. \n
+\[under review\] \"{{<u>SimpleMKKM: Simple Multiple Kernel K-means</u>}}\". \[[https://arxiv.org/pdf/2005.04975.pdf PDF]\] \[[https://github.com/xinwangliu/SimpleMKKMcodes/tree/master Code]\] \[[https://github.com/xinwangliu/xinwangliu.github.io/blob/master/groupmember/Appendix_SimpleMKKM.pdf Supplement]\] \[[bibs/SimpleMKKM_Simple_Multiple_Kernel_K_means.bib Bibtex]\]\n
+\[2020\/12\] \"{{<u>Hierarchical Multiple Kernel Clustering</u>}}\" has been accepted by *AAAI21*. \n
+\[2020\/10\] \"{{<u>Image Representation Learning by Transformation Regression</u>}}\" has been accepted by *ICPR20*.\n
+\[2020\/08\] \"{{<u>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</u>}}\" has been accepted by *IEEE TKDE*.
 
-== About me
-I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
- [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+== Bio
+Jiyuan Liu is currently a PhD student in National University of Defense Technology (NUDT), China. His research interests include multi-view clustering, deep clustering and anomaly detection. Jiyuan Liu has published papers in highly regarded journals and conferences such as IEEE T-KDE, AAAI, IJCAI, etc. He serves as Program Committee member and reviewer on highly regarded journals and conferences, such as TNNLS, AAAI21, IJCAI21 (SPC), etc. 
 
-== Research
-My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
+== Education
+My education background is listed as follows:
+- \[2013\/09 - 2017\/06\] Undergraduate student in QianxueSen Class (QXSC) of NUDT 
+- \[2016\/12 - 2017\/06\] Visiting student in Prof. [https://www.cs.sfu.ca/~jcliu/ Jiangchuan Liu]'s lab with the support from China Scholarship Council (CSC)
+- \[2017\/06 - Now\] Ph.D. candidate of Master-Ph.D. program in NUDT under the supervision of Prof. [http://xinwangliu.github.io/ Xinwang Liu] and Prof. [https://www.researchgate.net/profile/Yuexiang_Yang/ Yuexiang Yang]
 
-[research.html Find out more].
-=== Recent Publications 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+# [research.html Find out more].
 
-[publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
+== Publication
+Conference:
+. \[*AAAI'02*\]~~*Jiyuan Liu*, Xinwang Liu\*, Yuexiang Yang, Siwei Wang, Sihang Zhou: {{<u>Hierarchical Multiple Kernel Clustering</u>}}. 35th AAAI Conference on Artificial Intelligence, AAAI, 2021. (Accepted Dec. 2020) \[PDF\] \[[https://github.com/liujiyuan13/HMKC-code_release Code]\] \[[bibs/Hierarchical_Multiple_Kernel_Clustering.bib Bibtex]\]
+. \[*ICPR'01*\]~~Xifeng Guo, *Jiyuan Liu*\*, Sihang Zhou, En Zhu, Shihao Dong: {{<u>Image Representation Learning by Transformation Regression</u>}}. 25th International Conference on Pattern Recognition, ICPR, 2020. (Accepted Oct. 2020) \[PDF\] \[Code\] \[[bibs/Image_Representation_Learning_by_Transformation_Regression.bib Bibtex]\]
+. \[*AAAI'01*\]~~Sihang Zhou, Xinwang Liu\*, *Jiyuan Liu*, Xifeng Guo, Yawei Zhao, En Zhu, Yongping Zhai, Jianping Yin and Wen Gao: {{<u>Multi-View Spectral Clustering with Optimal Neighborhood Laplacian Matrix</u>}}. 33th AAAI Conference on Artificial Intelligence, AAAI, 2019. \[[pubs/Multi-View_Spectral_Clustering_with_Optimal_Neighborhood_Laplacian_Matrix.pdf PDF]\] \[[https://github.com/xinwangliu/ONMSC Code]\] \[[bibs/Multi-View_Spectral_Clustering_with_Optimal_Neighborhood_Laplacian_Matrix.bib Bibtex]\]
+. \[*IJCAI'01*\]~~Siwei Wang, Xinwang Liu\*, En Zhu, Chang Tang, *Jiyuan Liu*, Jingtao Hu, Jingyuan Xia, Jianping Yin: {{<u>Multi-view Clustering via Late Fusion Alignment Maximization</u>}}. 28th International Joint Conference on Artificial Intelligence, IJCAI, 2019. \[[https://www.researchgate.net/publication/333672090_Multi-view_Clustering_via_Late_Fusion_Alignment_Maximization PDF]\] \[[https://github.com/wangsiwei2010/latefusionalignment Code]\] \[[bibs/Multi-view_Clustering_via_Late_Fusion_Alignment_Maximization.bib Bibtex]\]
+
+Journal:
+. \[*TKDE'01*\]~~*Jiyuan Liu*, Xinwang Liu\*, Jian Xiong, Qing Liao, Sihang Zhou, Siwei Wang, Yuexiang Yang: {{<u>Optimal Neighborhood Multiple Kernel Clustering with Adaptive Local Kernels</u>}}. IEEE Transactions on Knowledge and Data Engineering, TKDE. (Accepted Aug. 2020) \[[pubs/Optimal_Neighborhood_Multiple_Kernel_Clustering_with_Adaptive_Local_Kernels.pdf PDF]\] \[[https://github.com/liujiyuan13/ON-ALK_release_code Code]\] \[[bibs/Optimal_Neighborhood_Multiple_Kernel_Clustering_with_Adaptive_Local_Kernels.bib Bibtex]\]
+. \[*CMC'01*\]~~*Jiyuan Liu*, Yingzhi Zeng, Jiangyong Shi, Yuexiang Yang\*, Rui Wang, Liangzhong He: {{<u>MalDetect: A Structure of Encrypted Malware Traffic Detection</u>}}. Computers, Materials and Continua 60 (2019): 721-739 \[[pubs/MalDetect-A_Structure_of_Encrypted_Malware_Traffic_Detection.pdf PDF]\] \[[https://github.com/liujiyuan13/MalDetect-code Code]\] \[[bibs/MalDetect-A_Structure_of_Encrypted_Malware_Traffic_Detection.bib Bibtex]\]
+
+# [publications.html Full list of publications].
+# \n
+# [cv.pdf A brief cv].
+
+== Service
+I serves as a\/an:
+- reviewer of TNNLS, IET Networks, etc.
+- Program Committee member of AAAI21.
+- Senior Program Committee member of IJCAI21.
+
