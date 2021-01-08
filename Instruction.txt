@@ -1,0 +1,5 @@
+Jemdoc Usage:
+1. Pull the repo;
+2. Edit index.jemdoc;
+3. Run "python27 jemdoc.py index.jemdoc";
+4. Push the repo.
